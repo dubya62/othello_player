@@ -10,4 +10,4 @@ make othello_player
 
 ## Details
 -  Type "help" to see a list of settings
--  The program allows anywhere from 0-2 human players. Other players will use the mini-max algorithm to make moves.
+-  The program allows anywhere from 0-2 human players. AI players will use the mini-max algorithm to make moves.
